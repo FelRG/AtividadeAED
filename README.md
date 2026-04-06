@@ -1,4 +1,4 @@
-# AtividadeAED - Análise de Logs de Sistema com Python
+# Análise de Logs de Sistema com Python
 
 ## Descrição
 
